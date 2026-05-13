@@ -30,18 +30,6 @@ This roadmap gradually covers:
 
 ---
 
-## 📂 Repository Structure
-
-atlas-aiml-cohort/
-│
-├── roadmap/
-├── resources/
-├── weekly-tasks/
-├── showcase-projects/
-└── students/
-
----
-
 ## 📌 Learning Philosophy
 
 Learn → Build → Debug → Deploy → Collaborate
